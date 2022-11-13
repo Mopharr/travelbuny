@@ -7,7 +7,7 @@ const SignUp = () => {
     <div>
       <Head>
         <title>TravelBunny</title>
-        <meta name="description" content="One Secure" />
+        <meta name="description" content="TravelBunny" />
         <link rel="icon" href="/logo.png" />
       </Head>
 
